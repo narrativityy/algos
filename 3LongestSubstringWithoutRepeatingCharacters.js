@@ -29,6 +29,32 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
+    let charSet = new Set()
+    let l = 0
+    let max = 0
+
+    for (let r = 0; r < s.length; r++) {
+        while (charSet.has(s[r])) {
+            charSet.delete(s[l])
+            l += 1
+        }
+        charSet.add(s[r])
+        max = Math.max(max, charSet.size)
+    }
+
+    return max
+};
+
+console.log(lengthOfLongestSubstring("abcabcbb"))
+console.log(lengthOfLongestSubstring("bbbbb"))
+console.log(lengthOfLongestSubstring("pwwkew"))
+
+/**
+ * Version 1 slow algorithm
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstringSlow = function(s) {
     if (s.length < 1) {
         return 0
     }
@@ -57,6 +83,6 @@ var lengthOfLongestSubstring = function(s) {
     return max
 };
 
-console.log(lengthOfLongestSubstring("abcabcbb"))
-console.log(lengthOfLongestSubstring("bbbbb"))
-console.log(lengthOfLongestSubstring("pwwkew"))
+// console.log(lengthOfLongestSubstringSlow("abcabcbb"))
+// console.log(lengthOfLongestSubstringSlow("bbbbb"))
+// console.log(lengthOfLongestSubstringSlow("pwwkew"))
