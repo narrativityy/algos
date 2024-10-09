@@ -1,0 +1,21 @@
+def removeDuplicates(nums):
+    """
+    Remove duplicates from a sorted array.
+
+    :type nums: List[int]
+    :rtype: int
+    """
+    # Initialize two pointers, one at the start of the array and one at the second element
+    i = 0
+    j = 1
+    # Iterate through the array
+    for j in range(1, len(nums)):
+        # If the current element is different from the previous element, move the pointer and replace the element
+        if nums[j] != nums[j - 1]:
+            i += 1
+            nums[i] = nums[j]
+    # Return the length of the array
+    return i + 1
+
+print(removeDuplicates([1,1,2]))
+print(removeDuplicates([0,0,1,1,1,1,2,3,4,4]))
