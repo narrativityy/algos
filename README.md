@@ -29,7 +29,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 605 | Can Place Flowers | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
 | 700 | Search in a Binary Search Tree | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
 | 933 | Number of Recent Calls | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
-| 1207 | Unique Number of Occurances | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
+| 1207 | Unique Number of Occurances | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/1207UniqueNumberOfOccurances.py) |
 | 1431 | Running Sum of 1d Array | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
 | 1480 | Kids With the Greatest Number of Candies | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
 | 1768 | Merge Strings Alternatively | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
