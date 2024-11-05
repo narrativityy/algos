@@ -35,6 +35,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 1768 | Merge Strings Alternatively | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/1768MergeStringsAlternately.js) |
 | 2215 | Find the Difference of Two Arrays | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/2215FindTheDifferenceOfTwoArrays.py) |
 | 2300 | Successful Pairs of Spells and Potions | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/2300SuccessfulPairsOfSpellsAndPotions.py) |
+| 2914 | Minimum Number of Changes to Make Binary String Beautiful | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/2914MinimumNumberOfChangesToMakeBinaryStringBeautiful.py) |
 | 2807 | Insert Greatest Common Divisors in Linked List | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/2807InsertGreatestCommonDivisorsInLinkedList.py) |
 
 
