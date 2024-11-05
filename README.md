@@ -20,6 +20,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 27 | Remove Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/27RemoveElement.js) |
 | 58 | Length of Last Word | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/58LengthOfLastWord.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/121BestTimeToBuyAndSellStock.js) |
+| 144 | Binary Tree Preorder Traversal | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/144BinaryTreePreorderTraversal.py) |
 | 151 | Reverse Words in a String | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/151ReverseWordsInAString.js) |
 | 169 | Majority Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/169MajorityElement.js) |
 | 283 | Move Zeroes | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/283MoveZereos.py) |
