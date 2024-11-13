@@ -24,6 +24,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 145 | Binary Tree Postorder Traversal | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/145BinaryTreePostorderTraversal.py) |
 | 151 | Reverse Words in a String | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/151ReverseWordsInAString.js) |
 | 169 | Majority Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/169MajorityElement.js) |
+| 217 | Contains Duplicate | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/217ContainsDuplicate.py) |
 | 283 | Move Zeroes | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/283MoveZereos.py) |
 | 345 | Reverse Vowels of a String | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/345ReverseVowelsOfAString.js) |
 | 374 | Guess Number Higher or Lower | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/374GuessNumberHigherOrLower.py) |
