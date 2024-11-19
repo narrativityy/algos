@@ -16,6 +16,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 1 | Two Sum | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/1TwoSum.py) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/3LongestSubstringWithoutRepeatingCharacters.js) |
 | 11 | Container With Most Water | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/11ContainerWithMostWater.js) |
+| 20 | Valid Parentheses | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/20ValidParentheses.py) |
 | 26 | Remove Duplicates from Sorted Array | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/26RemoveDuplicatesFromSortedArray) |
 | 27 | Remove Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/27RemoveElement.js) |
 | 58 | Length of Last Word | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/58LengthOfLastWord.py) |
