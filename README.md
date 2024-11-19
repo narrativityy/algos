@@ -24,6 +24,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 144 | Binary Tree Preorder Traversal | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/144BinaryTreePreorderTraversal.py) |
 | 145 | Binary Tree Postorder Traversal | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/145BinaryTreePostorderTraversal.py) |
 | 151 | Reverse Words in a String | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/151ReverseWordsInAString.js) |
+| 155 | Min Stack | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/155MinStack.py) |
 | 169 | Majority Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/169MajorityElement.js) |
 | 217 | Contains Duplicate | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/217ContainsDuplicate.py) |
 | 242 | Valid Anagram | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/217ContainsDuplicate.py) |
