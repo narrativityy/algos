@@ -27,6 +27,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 150 | Evaluate Reverse Polish Notation | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/150EvaluateReversePolishNotation.py) |
 | 151 | Reverse Words in a String | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/151ReverseWordsInAString.js) |
 | 155 | Min Stack | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/155MinStack.py) |
+| 167 | Two Sum II - Input Array Is Sorted | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/167TwoSumII-InputArrayIsSorted.py) |
 | 169 | Majority Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/169MajorityElement.js) |
 | 217 | Contains Duplicate | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/217ContainsDuplicate.py) |
 | 242 | Valid Anagram | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/217ContainsDuplicate.py) |
