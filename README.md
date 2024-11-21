@@ -37,6 +37,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 392 | Is Subsequence | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/392IsSubsequence.js) |
 | 605 | Can Place Flowers | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/605CanPlaceFlowers.js) |
 | 700 | Search in a Binary Search Tree | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/700SearchInABinarySearchTree.py) |
+| 704 | Binary Search | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/704BinarySearch.py) |
 | 933 | Number of Recent Calls | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/933NumberOfRecentCalls.py) |
 | 1207 | Unique Number of Occurances | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/1207UniqueNumberOfOccurances.py) |
 | 1431 | Running Sum of 1d Array | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/1431KidsWithTheGreatestNumberOfCandies.py) |
