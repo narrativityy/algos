@@ -29,6 +29,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 155 | Min Stack | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/155MinStack.py) |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/167TwoSumII-InputArrayIsSorted.py) |
 | 169 | Majority Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/169MajorityElement.js) |
+| 206 | Reverse Linked List | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/206ReverseLinkedList.py) |
 | 217 | Contains Duplicate | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/217ContainsDuplicate.py) |
 | 242 | Valid Anagram | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/217ContainsDuplicate.py) |
 | 283 | Move Zeroes | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/242ValidAnagram.py) |
