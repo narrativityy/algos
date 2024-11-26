@@ -20,6 +20,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 26 | Remove Duplicates from Sorted Array | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/26RemoveDuplicatesFromSortedArray) |
 | 27 | Remove Element | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/27RemoveElement.js) |
 | 58 | Length of Last Word | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/58LengthOfLastWord.py) |
+| 74 | Search a 2D Matrix | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/74SearchA2DMatrix.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/121BestTimeToBuyAndSellStock.js) |
 | 125 | Valid Palindrome | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/125ValidPalindrome.py) |
 | 144 | Binary Tree Preorder Traversal | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/144BinaryTreePreorderTraversal.py) |
