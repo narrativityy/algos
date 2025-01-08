@@ -27,4 +27,49 @@ class Solution:
         # If we have iterated over the whole list and haven't found a cycle, then there is no cycle
         return False
 
+import unittest
 
+class TestHasCycle(unittest.TestCase):
+    def test_empty_linked_list(self):
+        solution = Solution()
+        self.assertFalse(solution.hasCycle(None))
+
+    def test_linked_list_with_no_cycle(self):
+        solution = Solution()
+        node1 = ListNode(1)
+        node2 = ListNode(2)
+        node3 = ListNode(3)
+        node1.next = node2
+        node2.next = node3
+        self.assertFalse(solution.hasCycle(node1))
+
+    def test_linked_list_with_cycle(self):
+        solution = Solution()
+        node1 = ListNode(1)
+        node2 = ListNode(2)
+        node3 = ListNode(3)
+        node1.next = node2
+        node2.next = node3
+        node3.next = node1
+        self.assertTrue(solution.hasCycle(node1))
+
+    def test_linked_list_with_single_node_and_cycle(self):
+        solution = Solution()
+        node1 = ListNode(1)
+        node1.next = node1
+        self.assertTrue(solution.hasCycle(node1))
+
+    def test_linked_list_with_multiple_nodes_and_cycle(self):
+        solution = Solution()
+        node1 = ListNode(1)
+        node2 = ListNode(2)
+        node3 = ListNode(3)
+        node4 = ListNode(4)
+        node1.next = node2
+        node2.next = node3
+        node3.next = node4
+        node4.next = node2
+        self.assertTrue(solution.hasCycle(node1))
+
+if __name__ == '__main__':
+    unittest.main()
