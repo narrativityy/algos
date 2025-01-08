@@ -24,6 +24,7 @@ Below is a list of LeetCode problems I've solved, along with their difficulty le
 | 74 | Search a 2D Matrix | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/74SearchA2DMatrix.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/121BestTimeToBuyAndSellStock.js) |
 | 125 | Valid Palindrome | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/125ValidPalindrome.py) |
+| 141 | Linked List Cycle | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/141LinkedListCycle.py) |
 | 144 | Binary Tree Preorder Traversal | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/144BinaryTreePreorderTraversal.py) |
 | 145 | Binary Tree Postorder Traversal | Easy | [Solution](https://github.com/narrativityy/algos/blob/main/145BinaryTreePostorderTraversal.py) |
 | 150 | Evaluate Reverse Polish Notation | Medium | [Solution](https://github.com/narrativityy/algos/blob/main/150EvaluateReversePolishNotation.py) |
